@@ -1,0 +1,7 @@
+{{- include "helmlibchart.deployment" . }}
+---
+{{- include "helmlibchart.service" . }}
+---
+{{- include "helmlibchart.serviceaccount" . }}
+---
+{{- include "helmlibchart.ingress" . }}
