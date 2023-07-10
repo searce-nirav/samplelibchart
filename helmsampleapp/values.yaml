@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   pullPolicy: IfNotPresent
-  repository: anaisurlichs/helm-go-example
+  repository: nginx:latest
 
 imagePullSecrets: []
 nameOverride: ""
