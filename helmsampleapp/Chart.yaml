@@ -25,6 +25,6 @@ appVersion: "1.16.0"
 
 # My common code in my library chart
 dependencies:
-  - name: mylibchart
+  - name: helmlibchart
     version: 0.1.0
     repository: file://../helmlibchart
